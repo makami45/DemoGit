@@ -1,7 +1,6 @@
 #include "thuvien.h"
 
 int main() {
-	int n;
-	nhap_songuyen(n);
+	hienthi_menu();
 	return 0;
 }

@@ -1,2 +1,7 @@
 ﻿  caidat.cpp
+C:\Users\xuand\OneDrive\Documents\VSCODE\Codelearn.io\NMLT++\NMLT++\caidat.cpp(22,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  chuongtrinh.cpp
+  Generating Code...
+C:\Users\xuand\OneDrive\Documents\VSCODE\Codelearn.io\NMLT++\NMLT++\caidat.cpp(33): warning C4715: 'kt_sht': not all control paths return a value
+C:\Users\xuand\OneDrive\Documents\VSCODE\Codelearn.io\NMLT++\NMLT++\caidat.cpp(20): warning C4715: 'kt_snt': not all control paths return a value
   NMLT++.vcxproj -> C:\Users\xuand\OneDrive\Documents\VSCODE\Codelearn.io\NMLT++\x64\Debug\NMLT++.exe
