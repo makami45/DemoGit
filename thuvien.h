@@ -11,3 +11,4 @@ bool kt_scp(int n);
 bool kt_sht(int n);
 void hienthi_menu();
 void chon_menu(int arr1[], int arr2[][KTM], int n);
+
